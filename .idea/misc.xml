@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_handle_image.xml" value="0.18055555555555555" />
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_handle_pdf.xml" value="0.18055555555555555" />
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_handling_video_player.xml" value="0.18055555555555555" />
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_main.xml" value="0.18729096989966554" />
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_pdf_asset.xml" value="0.18055555555555555" />
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_pdf_internet.xml" value="0.18055555555555555" />
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_pdf_storage.xml" value="0.18055555555555555" />
+        <entry key="..\:/appdev/FileProcessing/app/src/main/res/layout/activity_pdf_web_view.xml" value="0.18055555555555555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
